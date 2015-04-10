@@ -8,4 +8,5 @@ Braintree_Configuration::publicKey('sn7nc9h2tpg9m56s');
 Braintree_Configuration::privateKey('f0c4a3297c516fd73f522123cf09ba42');
 
 //Aqui vamos colocando nuevo código o texto
+
 ?>

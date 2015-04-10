@@ -1,4 +1,5 @@
 <?php
+// Este hace un pago  sin solicitar credenciales
 
 require_once 'settings.php';
 

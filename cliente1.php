@@ -22,6 +22,7 @@ require_once 'settings.php';
 $clientToken = Braintree_ClientToken::generate(array(  "customerId" => "74497174" ));
 
  $monto=50.10; 
+ //BLAH BLAH BLAH
 ?>
 
 
